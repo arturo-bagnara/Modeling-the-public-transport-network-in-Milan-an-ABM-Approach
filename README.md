@@ -24,4 +24,8 @@ This repository contains the following files:
 
 - `Experiment_1.ipynb`: This notebook contains the creation of the network for experiment 1, the simulation itself and the analysis of the results;
 
-- `Experiment_2.ipynb`: This notebook contains the creation of the network for experiment 2, the simulation itself and the analysis of the results.
+- `Experiment_2.ipynb`: This notebook contains the creation of the network for experiment 2, the simulation itself and the analysis of the results;
+
+- `data`: Folder containing all the data necessary to run the notebooks;
+
+- `pickle_ag` & `pickle_ag2`: Folders containing pickle files with 10 sets of 25000 agents, generated for experiment 1 and 2 respectively. 
